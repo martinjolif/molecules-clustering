@@ -162,4 +162,10 @@ cython_debug/
 # MacOS
 .DS_Store
 
+#Files due to Deep Clustering of small molecules project
+atom_features_PCA.csv
+bond_features_PCA.csv
+cleaned.csv
+SMILES_200Features.csv
+smiles.csv
 
