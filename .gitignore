@@ -163,9 +163,9 @@ cython_debug/
 .DS_Store
 
 #Files due to Deep Clustering of small molecules project
-atom_features_PCA.csv
-bond_features_PCA.csv
-cleaned.csv
-SMILES_200Features.csv
+molecules-clustering/Molecules_Clustering_using_SMILES_representation/Deep_clustering_of_small_molecules/atom_features_PCA.csv
+molecules-clustering/Molecules_Clustering_using_SMILES_representation/Deep_clustering_of_small_molecules/bond_features_PCA.csv
+molecules-clustering/Molecules_Clustering_using_SMILES_representation/Deep_clustering_of_small_molecules/cleaned.csv
+molecules-clustering/Molecules_Clustering_using_SMILES_representation/Deep_clustering_of_small_molecules/SMILES_200Features.csv
 smiles.csv
 
