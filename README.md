@@ -11,11 +11,15 @@ I used different clustering algorithms to cluster molecules from the ESOL_delane
 ##### Molecules clustering using SMILES representation
 I followed the methods and the scripts of two papers to cluster molecules from the compound-annotation dataset and compared the results according to three metrics.
 
+See the README file in the [molecules-clustering](molecules-clustering/README.md) folder for further details.
+
 
 ### Molecules Generation
 
-I compared two principal methods to generate new molecules : GAN and Diffusion process.
+I compared two main methods to generate new molecules : GAN and Diffusion process.
 
 For the methods based on diffusion process, I followed the scripts of 3 articles and 2 articles for methods based on GAN.
 
 To compare the results of each method, I used the same QM9 dataset and three metrics.
+
+See the README file in the [molecules-generation](molecules-generation/README.md) folder for further details.

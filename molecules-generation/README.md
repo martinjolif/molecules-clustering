@@ -1,7 +1,7 @@
 # molecules-generation
 Research Project - Mines Nancy
 
-The objective of this part of the project is to do a state of the art of molecules generation methods and to compare different methods.
+The objective of this part of the project is to do a state of the art of molecules generation methods and to compare these different methods.
 
 I focus my research on two methods : GAN and diffsuion process.
 To compare the results of the methods, I always used method trained on the same QM9 dataset.
@@ -14,11 +14,13 @@ The CDGS and GruM GitHub pages already provides checkpoints for the training of 
 
 For the DiGress method, I trained the model on the QM9 dataset and then generate my own 10 000 molecules. 
 
+Here are the results I obtained :
+
 ![Texte alternatif](../images/DP-table.png "Titre de l'image")
 
 ### Methods based on GAN
 
-For the methods based on GAN, I only relied on the results given by the author in their paper.
+For the methods based on GAN, I only relied on the results given by the author in their paper :
 
 ![Texte alternatif](../images/GAN-table.png "Titre de l'image")
 
